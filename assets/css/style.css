@@ -298,16 +298,16 @@ h6 {
 
 #hero h1 {
   margin: 0;
-  font-size: 64px;
+  font-size: 72px;
   font-weight: 700;
-  line-height: 56px;
+  line-height: 50px;
   color: #ffffff;
 }
 
 #hero p {
   color: #ffffff;
   margin: 15px 0 0 0;
-  font-size: 26px;
+  font-size: 28px;
   font-family: "Poppins", sans-serif;
 }
 
@@ -317,14 +317,14 @@ h6 {
 }
 
 #hero .social-links {
-  margin-top: 30px;
+  margin-top: 35px;
 }
 
 #hero .social-links a {
   font-size: 24px;
   display: inline-block;
-  color: #45505b;
-  line-height: 1;
+  color: #1e3c57;
+  line-height: 2;
   margin-right: 20px;
   transition: 0.3s;
 }
